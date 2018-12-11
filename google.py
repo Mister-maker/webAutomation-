@@ -1,6 +1,5 @@
 import os 
 import pyautogui
-import webbrowser 
 import time 
 
 #(20, 742) tool opener bar
